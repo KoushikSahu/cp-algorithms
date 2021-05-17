@@ -1,2 +1,5 @@
 # output files
 *.out
+
+# vscode config files
+.vscode/
